@@ -4,4 +4,4 @@ city = input("Enter your City:")
 
 print("First Name:", first_name)
 print("Surname:", surname)
-print("NEW LINE")
+print("City:" ,city)
